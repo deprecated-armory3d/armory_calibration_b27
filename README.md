@@ -9,3 +9,6 @@ Match lighting in Armory to Cycles.
 
 ## Lamp intensity
 ![](img/lamp_intensity.jpg)
+
+## BSDF
+![](img/bsdf.jpg)
