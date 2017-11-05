@@ -1,1 +1,0 @@
-Note: due to multi-bounce lighting in Cycles (compared to one-bounce for voxels), light strength in Cycles has to be reduced to better match the lighting. This will be resolved once multi-bounce voxel GI is implemented by running a compute shader on voxelized data.
