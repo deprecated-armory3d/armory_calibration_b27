@@ -2,7 +2,8 @@
 
 Match lighting in Armory to Cycles.
 
-(Rendered with Build 8)
+## Curio shop (global illumination)
+![](img/gi.jpg)
 
 ## Cornell variation
 ![](img/cornell.jpg)
